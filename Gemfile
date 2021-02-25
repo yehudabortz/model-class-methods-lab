@@ -7,3 +7,4 @@ gem 'sqlite3', '~>1.3.6'
 group :development, :test do
   gem "rspec-rails"
 end
+gem "pry", "~> 0.12.2"
